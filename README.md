@@ -1,4 +1,6 @@
 # quickstart
+Please check [this repository](https://github.com/belion-freee/quickstart) for detail.
+
 You can easily create Rails templates using docker-compose.
 It uses PostgreSQL or MySQL for the database and webpacker on the front end, so modern development using ES 6 is possible.
 
@@ -61,4 +63,4 @@ Now, You can use solargraph server.
 Execute `./qs up redis` command.
 
 ### Chrome service
-Execute `./qs up chrome` command. 
+Execute `./qs up chrome` command.
