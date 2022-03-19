@@ -15,6 +15,12 @@ $ docker-compose run web rails new . --force --no-deps --database=postgresql --s
 $ docker-compose build
 ```
 
+## bundle install
+
+```
+$ docker-compose run web bundle install
+```
+
 ## webpacker install
 
 ```
